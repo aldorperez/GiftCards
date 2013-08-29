@@ -1,0 +1,143 @@
+{
+   "Dan Gaffey": {
+      "Numbers":1,
+      "Name":"Dan Gaffey",
+      "Position":"Forward",
+      "GP":80,
+      "G":18,
+      "A":34
+   },
+   "Tom Koerbel":{
+      "Numbers":6,      
+      "Position":"Goalie",
+      "GP":74,
+      "G":0,
+      "A":0
+   },
+   "Clarence Valtteri":{
+      "Numbers":7,      
+      "Position":"Forward",
+      "GP":74,
+      "G":11,
+      "A":8
+   },
+   "Andrew Roberts":{
+      "Numbers":10,      
+      "Position":"Forward",
+      "GP":79,
+      "G":14,
+      "A":21
+   },
+   "Andre Saku":{
+      "Numbers":11,      
+      "Position":"Forward",
+      "GP":72,
+      "G":13,
+      "A":26
+   },
+   "Lon Logan":{
+      "Numbers":12,      
+      "Position":"Defenseman",
+      "GP":70,
+      "G":22,
+      "A":28
+   },
+   "Mike Schroeder":{
+      "Numbers":13,      
+      "Position":"Forward",
+      "GP":79,
+      "G":28,
+      "A":13
+   },
+   "Chad Smith":{
+      "Numbers":14,      
+      "Position":"Defenseman",
+      "GP":73,
+      "G":25,
+      "A":22
+   },
+   "Anthony Martin":{
+      "Numbers":22,      
+      "Position":"Forward",
+      "GP":72,
+      "G":28,
+      "A":48
+   },
+   "Rafe Tracy":{
+      "Numbers":24,
+      "Position":"Defenseman",
+      "GP":81,
+      "G":16,
+      "A":0
+   },
+   "Oswald Schuyler":{
+      "Numbers":26,      
+      "Position":"Defenseman",
+      "GP":80,
+      "G":3,
+      "A":45
+   },
+   "Osku Boniface":{
+      "Numbers":27,      
+      "Position":"Forward",
+      "GP":74,
+      "G":23,
+      "A":18
+   },
+   "Abner Jeremias":{
+      "Numbers":33,      
+      "Position":"Forward",
+      "GP":76,
+      "G":6,
+      "A":35
+   },
+   "Jack Reacher":{
+      "Numbers":35,      
+      "Position":"Goalie",
+      "GP":78,
+      "G":0,
+      "A":0
+   },
+   "Andrew Miarchi":{
+      "Numbers":42,      
+      "Position":"Forward",
+      "GP":70,
+      "G":6,
+      "A":16
+   },
+   "Selwyn Reed":{
+      "Numbers":55,      
+      "Position":"Forward",
+      "GP":75,
+      "G":22,
+      "A":27
+   },
+   "Negley Rodgers":{
+      "Numbers":72,      
+      "Position":"Forward",
+      "GP":71,
+      "G":8,
+      "A":18
+   },
+   "Yehuda Miller":{
+      "Numbers":82,      
+      "Position":"Defenseman",
+      "GP":70,
+      "G":16,
+      "A":39
+   },
+   "Chris Gardner":{
+      "Numbers":96,      
+      "Position":"Forward",
+      "GP":81,
+      "G":29,
+      "A":4
+   },
+   "Brandon Corwin":{
+      "Numbers":97,       
+      "Position":"Forward",
+      "GP":80,
+      "G":28,
+      "A":2
+   }
+}
